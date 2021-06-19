@@ -21,7 +21,7 @@ public class JuXing {
                 if (j == 1 || j == 9 - 2 * i) {
                     System.out.print("*");
                 } else {
-                    System.out.print(" ");
+                    System.out.print(" 色肉体上的提高");
                 }
             }
             System.out.println();
